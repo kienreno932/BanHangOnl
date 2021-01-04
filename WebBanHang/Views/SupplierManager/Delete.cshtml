@@ -1,0 +1,57 @@
+﻿@model WebBanHang.Models.SupplierModel
+
+@{
+    ViewBag.Title = "Xoá nhà cung cấp";
+    Layout = "~/Views/Shared/_LayoutAdmin .cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<h3>Bạn có muốn xoá nhà cung cấp này không?</h3>
+<div>
+    <h4>Nhà cung cấp</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xoá" class="btn btn-default" /> |
+            @Html.ActionLink("Quay trở lại danh sách", "Index")
+        </div>
+    }
+</div>

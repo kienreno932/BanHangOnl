@@ -1,0 +1,35 @@
+﻿@model WebBanHang.Models.CategoryModel
+
+@{
+    ViewBag.Title = "Chi tiết nhãn";
+    Layout = "~/Views/Shared/_LayoutAdmin .cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div>
+    <h4>Nhãn</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Quay lại danh sách", "Index")
+</p>

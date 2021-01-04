@@ -1,0 +1,68 @@
+﻿@model WebBanHang.Models.ProductModel
+
+@{
+    ViewBag.Title = "Chi tiết sản phẩm";
+    Layout = "~/Views/Shared/_LayoutAdmin .cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div>
+    <h4>Sản phẩm</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImageName)
+        </dt>
+
+        <dd>
+            <img alt="@Html.DisplayFor(model => model.Name)" src="~/Images/@Html.DisplayFor(model => model.ImageName)" width="200">
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Category.Name)
+        </dt>
+
+        <dd>
+            @ViewBag.Category.Name
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Supplier.Name)
+        </dt>
+
+        <dd>
+            @ViewBag.Supplier.Name
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Quay về danh sách", "Index")
+</p>

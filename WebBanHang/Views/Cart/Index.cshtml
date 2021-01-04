@@ -1,0 +1,69 @@
+﻿@model IEnumerable<WebBanHang.Models.CartViewModel>
+
+@{
+    ViewBag.Title = "Giỏ hàng";
+    Layout = "~/Views/Shared/_LayoutAdmin .cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.ImageName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Item.Quantity)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img src="~/Images/@item.Product.ImageName" class="card-img-top" alt="..." width="100">
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Item.Quantity)
+            </td>
+            <td>
+                @Html.ActionLink("Thêm", "MoreItem", new { id = item.Item.Id }) |
+                @Html.ActionLink("Bớt", "LessItem", new { id = item.Item.Id }) |
+                @Html.ActionLink("Xoá", "RemoveItem", new { id = item.Item.Id })
+            </td>
+        </tr>
+    }
+</table>
+
+@if (Model != null || Model.Count() > 0)
+{
+    <h2>Tổng tiền: @ViewBag.Total</h2>
+    <form action="~/Cart/MakeBill" method="post">
+        <input hidden type="number" name="id" value="@ViewBag.CartId" />
+        <label class="control-label col-md-2">Nhập họ & tên</label>
+        <input type="text" name="phone" class="form-control" />
+        <label class="control-label col-md-2">Nhập số điện thoại</label>
+        <input type="text" name="address" class="form-control" />
+        <label class="control-label col-md-2">Nhập mail</label>
+        <input type="text" name="mail" class="form-control" />
+        <label class="control-label col-md-2">Nhập địa chỉ</label>
+        <input type="text" name="address" class="form-control" />
+        <input type="submit" value="Thanh toán khi nhận hàng" class="btn shop-btn" />
+    </form>
+    <hr />
+    <a class="" href="~/Paypal/Index">Chọn thanh toán qua paypal</a>
+
+}

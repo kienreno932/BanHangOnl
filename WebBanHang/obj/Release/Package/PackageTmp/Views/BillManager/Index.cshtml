@@ -1,0 +1,64 @@
+﻿@model IEnumerable<WebBanHang.Models.BillModel>
+
+@{
+    ViewBag.Title = "Danh sách hoá đơn";
+    Layout = "~/Views/Shared/_LayoutAdmin .cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Cart.CustomerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Total)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Note)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Cart.CustomerName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Date)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Total)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Address)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Status)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Note)
+    </td>
+    <td>
+        @Html.ActionLink("Sửa", "Edit", new { id = item.Id }) |
+        @Html.ActionLink("Chi tiết", "Details", new { id = item.Id }) |
+        @Html.ActionLink("Xoá", "Delete", new { id = item.Id })
+    </td>
+</tr>
+}
+
+</table>

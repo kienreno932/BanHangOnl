@@ -1,0 +1,26 @@
+﻿@model WebBanHang.Models.ProductModel
+
+@{
+    ViewBag.Title = "Chi tiết sản phẩm";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div>
+    <h4>@Model.Name</h4>
+    <hr />
+    <div class="row">
+
+        <div class="col col-md-5"><img src="~/Images/@Model.ImageName" alt="" class="shop-card-img img-responsive" /></div>
+        <div class="col col-md-5">
+            <p class="shop-text-red">Giá: @Model.Price VNĐ</p><br />
+            <p>Mô tả: @Model.Description</p><br />
+            <p>Nhà cung cấp: @ViewBag.Supplier.Name</p>
+            <p>Nhãn: @ViewBag.Category.Name</p>
+            <hr />
+            <a href="@Url.Action("AddToCart", "Cart", new { id = Model.Id })" class="btn shop-btn">Thêm vào giỏ</a>
+            <a href="@Url.Action("Index", "Home", new { id = Model.Id })" class="btn shop-btn">Quay lại shop</a>
+        </div>
+    </div>
+
+</div>

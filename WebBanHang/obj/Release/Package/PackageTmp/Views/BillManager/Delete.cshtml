@@ -1,0 +1,49 @@
+﻿@model WebBanHang.Models.BillModel
+
+@{
+    ViewBag.Title = "Xoá hoá đơn";
+    Layout = "~/Views/Shared/_LayoutAdmin .cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<h3>Bạn có muốn xoá hoá đơn này không?</h3>
+<div>
+    <h4>Hoá đơn</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Cart.CustomerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cart.CustomerName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Total)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Total)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Trở về danh sách", "Index")
+        </div>
+    }
+</div>

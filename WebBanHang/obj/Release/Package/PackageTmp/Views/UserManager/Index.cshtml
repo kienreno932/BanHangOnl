@@ -1,0 +1,60 @@
+﻿@model IEnumerable<WebBanHang.Models.UserModel>
+
+@{
+    ViewBag.Title = "Quản lí người dùng";
+    Layout = "~/Views/Shared/_LayoutAdmin .cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.UserFullName)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.UserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateOfBirth)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserFullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserName)
+        </td>
+        <td>
+            @if(item.Gender == true)
+            {
+                <p>Nam</p>
+            } else
+            {
+                <p>Nữ</p>
+            }
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateOfBirth)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PhoneNumber)
+        </td>
+        <td>
+            @Html.ActionLink("Xoá", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

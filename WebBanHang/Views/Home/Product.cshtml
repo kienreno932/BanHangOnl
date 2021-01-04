@@ -1,0 +1,51 @@
+﻿@model IEnumerable<WebBanHang.Models.ProductModel>
+
+@{
+    ViewBag.Title = "Product";
+}
+
+<h2>Danh mục các sản phẩm</h2>
+
+<div class="row">
+    <div class="col col-md-5">
+        <form action="~/Home/SearchByName" method="post">
+            <label for="searchName" class="control-label">Nhập tên</label>
+            <input type="text" name="searchName" id="searchName" value="" style="display:inline;" class="form-control"  />
+            <input type="submit" value="Tìm"class="btn shop-btn" />
+        </form>
+    </div>
+    <div class="col col-md-4">
+        <form action="~/Home/SearchByPrice" method="post">
+            <label for="searchName" class="control-label">Nhập giá</label>
+            <input type="text" name="searchMin" id="searchMin" value="" style="width:80px;display:inline;" class="form-control"/> đến
+            <label for="searchName" class="control-label"></label>
+            <input type="text" name="searchMax" id="searchMax" value="" style="width:80px;display:inline;" class="form-control"/>
+            <input type="submit" value="Tìm" class="btn shop-btn"/>
+        </form>
+    </div>
+    <div class="col col-md-3">
+        <a href="~/Home/Product" class="btn shop-btn">Toàn bộ sản phẩm</a>
+    </div>
+</div>
+
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3 col-lg-4">
+            <div class="card shop-card">
+                <img src="~/Images/@item.ImageName" class="card-img-top shop-card-img" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title shop-card-title">@item.Name</h5>
+                    <p class="card-text">Mô tả: @item.Description</p>
+                    <p class="card-text shop-text-red">Giá: @item.Price VNĐ</p>
+                </div>
+                <div class="card-body">
+                    <a href="@Url.Action("AddToCart", "Cart", new { id = item.Id })" class="btn shop-btn">Thêm vào giỏ</a>
+                    <a href="@Url.Action("Details", "Home", new { id = item.Id })" class="btn shop-btn">Xem chi tiết</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

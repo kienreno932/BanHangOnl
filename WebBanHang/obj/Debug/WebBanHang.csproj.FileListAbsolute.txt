@@ -1,0 +1,264 @@
+E:\Project\WebBanHang\WebBanHang\bin\ApplicationInsights.config
+E:\Project\WebBanHang\WebBanHang\bin\roslyn\csc.exe
+E:\Project\WebBanHang\WebBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\WebBanHang\WebBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\WebBanHang\WebBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\WebBanHang\WebBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\WebBanHang\WebBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\WebBanHang\WebBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\WebBanHang\WebBanHang\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\WebBanHang\WebBanHang\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\WebBanHang\WebBanHang\bin\roslyn\vbc.exe
+E:\Project\WebBanHang\WebBanHang\bin\roslyn\VBCSCompiler.exe
+E:\Project\WebBanHang\WebBanHang\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\WebBanHang\WebBanHang\bin\WebBanHang.dll.config
+E:\Project\WebBanHang\WebBanHang\bin\WebBanHang.dll
+E:\Project\WebBanHang\WebBanHang\bin\WebBanHang.pdb
+E:\Project\WebBanHang\WebBanHang\bin\Antlr3.Runtime.dll
+E:\Project\WebBanHang\WebBanHang\bin\EntityFramework.dll
+E:\Project\WebBanHang\WebBanHang\bin\EntityFramework.SqlServer.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AI.DependencyCollector.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AI.Web.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AI.WindowsServer.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.ApplicationInsights.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Google.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Web.Infrastructure.dll
+E:\Project\WebBanHang\WebBanHang\bin\Newtonsoft.Json.dll
+E:\Project\WebBanHang\WebBanHang\bin\Owin.dll
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.Helpers.dll
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.Mvc.dll
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.Optimization.dll
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.Razor.dll
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.WebPages.Deployment.dll
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.WebPages.dll
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.WebPages.Razor.dll
+E:\Project\WebBanHang\WebBanHang\bin\WebGrease.dll
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AI.DependencyCollector.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AI.Web.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AI.WindowsServer.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.ApplicationInsights.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.Helpers.xml
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.Mvc.xml
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.Optimization.xml
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.Razor.xml
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.WebPages.xml
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.WebPages.Deployment.xml
+E:\Project\WebBanHang\WebBanHang\bin\System.Web.WebPages.Razor.xml
+E:\Project\WebBanHang\WebBanHang\bin\Antlr3.Runtime.pdb
+E:\Project\WebBanHang\WebBanHang\bin\Newtonsoft.Json.xml
+E:\Project\WebBanHang\WebBanHang\bin\EntityFramework.xml
+E:\Project\WebBanHang\WebBanHang\bin\EntityFramework.SqlServer.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Google.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Project\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Project\WebBanHang\WebBanHang\obj\Debug\WebBanHang.dll
+E:\Project\WebBanHang\WebBanHang\obj\Debug\WebBanHang.pdb
+E:\Project\WebBanHang\WebBanHang\obj\Debug\WebBanHang.csprojResolveAssemblyReference.cache
+E:\Project\WebBanHang\WebBanHang\obj\Debug\WebBanHang.Migrations.InitialShopDbContext.resources
+E:\Project\WebBanHang\WebBanHang\obj\Debug\WebBanHang.csproj.GenerateResource.Cache
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\ApplicationInsights.config
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\roslyn\csc.exe
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\roslyn\System.Collections.Immutable.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\roslyn\System.Reflection.Metadata.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\roslyn\vbc.exe
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\roslyn\VBCSCompiler.exe
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\roslyn\VBCSCompiler.exe.config
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\WebBanHang.dll.config
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\WebBanHang.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\WebBanHang.pdb
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Antlr3.Runtime.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\EntityFramework.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\EntityFramework.SqlServer.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AI.DependencyCollector.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AI.Web.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AI.WindowsServer.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.ApplicationInsights.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Google.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Web.Infrastructure.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Newtonsoft.Json.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Owin.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.Helpers.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.Mvc.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.Optimization.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.Razor.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.WebPages.Deployment.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.WebPages.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.WebPages.Razor.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\WebGrease.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AI.DependencyCollector.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AI.Web.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AI.WindowsServer.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.ApplicationInsights.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.Helpers.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.Mvc.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.Optimization.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.Razor.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.WebPages.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.WebPages.Deployment.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\System.Web.WebPages.Razor.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Antlr3.Runtime.pdb
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Newtonsoft.Json.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\EntityFramework.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\EntityFramework.SqlServer.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Google.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\obj\Debug\WebBanHang.csproj.CoreCompileInputs.cache
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\obj\Debug\WebBanHang.csproj.CopyComplete
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\obj\Debug\WebBanHang.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\obj\Debug\WebBanHang.pdb
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\obj\Debug\WebBanHang.csprojAssemblyReference.cache
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\obj\Debug\WebBanHang.Migrations.updatedatabasev2.resources
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\obj\Debug\WebBanHang.csproj.GenerateResource.cache
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\obj\Debug\WebBanHang.Migrations.updtdatabsev3.resources
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\obj\Debug\WebBanHang.Migrations.databasev4.resources
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\log4net.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\PayPal.dll
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\log4net.xml
+F:\Code\Project\Asp.Net\WebBanHang\WebBanHang\bin\PayPal.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\ApplicationInsights.config
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\roslyn\csc.exe
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\roslyn\System.Collections.Immutable.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\roslyn\System.Reflection.Metadata.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\roslyn\vbc.exe
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\roslyn\VBCSCompiler.exe
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\roslyn\VBCSCompiler.exe.config
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\WebBanHang.dll.config
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\WebBanHang.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\WebBanHang.pdb
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Antlr3.Runtime.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\EntityFramework.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\EntityFramework.SqlServer.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\log4net.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AI.DependencyCollector.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AI.Web.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AI.WindowsServer.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.ApplicationInsights.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.Core.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Cookies.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Facebook.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Google.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.OAuth.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Twitter.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Web.Infrastructure.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Newtonsoft.Json.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Owin.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\PayPal.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.Helpers.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.Mvc.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.Optimization.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.Razor.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.WebPages.Deployment.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.WebPages.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.WebPages.Razor.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\WebGrease.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\log4net.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AI.DependencyCollector.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AI.Web.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AI.WindowsServer.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.ApplicationInsights.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Newtonsoft.Json.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\PayPal.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.Helpers.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.Mvc.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.Optimization.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.Razor.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.WebPages.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.WebPages.Deployment.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\System.Web.WebPages.Razor.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Antlr3.Runtime.pdb
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\EntityFramework.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\EntityFramework.SqlServer.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.Core.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Facebook.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Cookies.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.OAuth.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Google.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.Twitter.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\obj\Debug\WebBanHang.csproj.CoreCompileInputs.cache
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\obj\Debug\WebBanHang.csproj.CopyComplete
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\obj\Debug\WebBanHang.dll
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\obj\Debug\WebBanHang.pdb
+E:\visual\TMDT_SOURCE\WebBanHang (1)\WebBanHang\WebBanHang\obj\Debug\WebBanHang.csprojAssemblyReference.cache

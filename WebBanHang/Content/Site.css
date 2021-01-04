@@ -1,0 +1,76 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.btn-site {
+    border-radius: 0px;
+    color:orchid;
+}
+
+.shop-nav {
+    color: white;
+    background-color: dodgerblue;
+
+}
+
+.shop-link {
+    text-decoration:none;
+    color:white;
+}
+
+.shop-card {
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.shop-card-img {
+    border-radius: 10px;
+    display: inline-table;
+    width:fit-content;
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    min-width:300px;
+    max-width:100%;
+}
+
+.shop-card-title {
+    font-size: 20px;
+    color: dodgerblue;
+}
+
+.shop-btn {
+    border: 1px solid dodgerblue;
+}
+
+.shop-text-red {
+    color: red;
+}
+
+h2 {
+    background: dodgerblue;
+    padding: 10px;
+    color: white;
+}
